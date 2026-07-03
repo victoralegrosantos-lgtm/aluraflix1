@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Primeira Página</title>
+    <title>Minha Clash Royale</title>
     <link rel="stylesheet" href="style.css"> <!-- Conecta com o CSS -->
 </head>
 <body>
